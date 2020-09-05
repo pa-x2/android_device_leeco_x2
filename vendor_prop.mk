@@ -9,8 +9,8 @@ PRODUCT_PROPERTY_OVERRIDES += \
     ro.qcom.ad.calib.data=/vendor/etc/ad_calib_x2.cfg
 
 # Display
-PRODUCT_PROPERTY_OVERRIDES += \
-    ro.sf.lcd_density=560
+#PRODUCT_PROPERTY_OVERRIDES += \
+#    ro.sf.lcd_density=560
 
 # Fingerprint
 PRODUCT_PROPERTY_OVERRIDES += \
