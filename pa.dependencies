@@ -1,0 +1,19 @@
+[
+   {
+      "remote"     : "github",
+      "repository" : "pa-x2/android_device_leeco_msm8996-common",
+      "target_path": "device/leeco/msm8996-common",
+      "revision"   : "q"
+   },
+   {
+      "remote"     : "github",
+      "repository" : "pa-x2/kernel_leeco_msm8996",
+      "target_path": "kernel/leeco/msm8996",
+      "revision"   : "q"
+   },   {
+      "remote"     : "github",
+      "repository" : "pa-x2/proprietary_vendor_leeco",
+      "target_path": "vendor/leeco",
+      "revision"   : "q"
+   }
+]
