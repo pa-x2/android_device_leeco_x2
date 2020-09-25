@@ -9,11 +9,11 @@
       "remote"     : "github",
       "repository" : "pa-x2/kernel_leeco_msm8996",
       "target_path": "kernel/leeco/msm8996",
-      "revision"   : "q"
+      "revision"   : "q10.0"
    },   {
       "remote"     : "github",
       "repository" : "pa-x2/proprietary_vendor_leeco",
       "target_path": "vendor/leeco",
-      "revision"   : "q"
+      "revision"   : "lineage-17.1"
    }
 ]
